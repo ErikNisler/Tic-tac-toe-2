@@ -1,4 +1,4 @@
-Tic-tac-toe - 15x15 board
+**Tic-tac-toe - 15x15 board**
 
 Classic tic tac toe game with czech mode - 15x15 array.
 
